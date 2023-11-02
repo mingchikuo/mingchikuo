@@ -1,4 +1,4 @@
-### Hi there 👋
+![Logo](https://raw.githubusercontent.com/mingchikuo/mingchikuo/main/logo.png)
 
 <!--
 **mingchikuo/mingchikuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
